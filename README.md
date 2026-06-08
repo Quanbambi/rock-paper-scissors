@@ -1,1 +1,1 @@
-# rock-paper-scissors
+Tip-Calculator project 
